@@ -1,6 +1,6 @@
 # Python-Computational-Geometry
 
-Description: This project required students to utilize previous learnings to create code that resembles the fundamentals of CAD software. For simplicity, this project focused on computing in two dimensions; though, the same algorithms would be utilized for three dimensions. 
+Description: This project required students to utilize course learnings to create code that resembles the fundamentals of CAD software. For simplicity, this project focused on computing in two dimensions; though, the same algorithms would be utilized for three dimensions. 
 
 Goals: 
 - Use calculus to create computational geometric algorithms
